@@ -11,6 +11,10 @@ I reimplemented it from scratch, so it should be futureproofed (for now!). If no
 
 ![alt text](https://github.com/SentientDragon5/UnityUIPolygon/blob/main/Images/Editor.png)
 
+To add, just add like you would an Image or button.
+
+![alt text](https://github.com/SentientDragon5/UnityUIPolygon/blob/main/Images/Add.png)
+
 It even supports masking! I'm not sure if the old one did.
 
 ![alt text](https://github.com/SentientDragon5/UnityUIPolygon/blob/main/Images/Masking.png)
